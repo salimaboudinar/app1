@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './head-bar.component.html',
-  styleUrl: './head-bar.component.css'
+  styleUrls: ['./head-bar.component.css'] // Correction ici, c'est 'styleUrls' (au pluriel)
 })
 export class HeadBarComponent {
 
