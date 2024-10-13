@@ -1,0 +1,11 @@
+.head-bar {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 20px; /* Padding around the content */
+    text-align: center; /* Center align text */
+  }
+  
+  h1 {
+    color: #333; /* Dark text color */
+    font-size: 24px; /* Font size for the title */
+  }
+  
